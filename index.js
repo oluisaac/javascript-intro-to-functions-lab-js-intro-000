@@ -9,7 +9,3 @@ function whisper (string) {
 function sayHiToGrandma (string){
   console.logShout (" I love you, Grandma.")
 }
-
-function logShout (string){
-  console.logShout ()
-}
